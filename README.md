@@ -1,3 +1,5 @@
-React App
-Overview
-This repository contains a React application designed to 
+TECHNOLGIES USED
+React single page application
+Routing done using React Router
+node .js
+... [other technologies]
